@@ -1,0 +1,12 @@
+{
+  "name": "mockserver",
+  "version": "1.0.0",
+  "description": "Simulated Server to practice HTTP communication protocols (Client-Server model)",
+  "license": "ISC",
+  "author": "Felipe Fonseca",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
